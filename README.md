@@ -1,4 +1,4 @@
-# CRSU-MetaInsight
+# CRSU-MetaInsight V3
 Network meta-analysis (NMA) has been increasingly adopted in evidence-based medicine to compare multiple interventions and address the questions such as ‘which intervention is the ‘best’ overall?’. 
 Currently, NMA is primarily conducted in statistical packages such as WinBUGs, R and STATA, and the software coding can be difficult for non- statisticians and hinders the progress of carrying out systematic reviews containing NMA. 
 
